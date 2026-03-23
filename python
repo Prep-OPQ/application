@@ -1,3 +1,4 @@
 dataa=int(input("enter the start number")
 dataa2=33
 print(dataa,dataa2)
+print("given dataa")
